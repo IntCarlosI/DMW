@@ -1,0 +1,14 @@
+body {
+    background-color: #ffe5d9;
+}
+
+.contenedor-imagenes {
+    width: 40%; /* Ancho del contenedor */
+    margin: auto auto; /* Centra el contenedor horizontalmente */
+}
+.contenedor-imagenes img {
+    width: 100%; /* Establece el ancho de las imágenes al 30% del ancho de su contenedor */
+    display: block; /* Hace que las imágenes se muestren una debajo de la otra */
+    margin-bottom: 40px; /* Agrega espacio entre las imágenes */
+    text-align: center;
+}
